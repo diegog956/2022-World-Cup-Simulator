@@ -271,9 +271,7 @@ void Encabezado()
     printf("                                        |\n");
     printf(" ----------------------------------------\n");
     printf("\n Integrantes: \n");
-    printf("\n - Gerardo Diego");
-    printf("\n - Falotiche Federico");
-    printf("\n - Arias Valentin \n\n");
+    printf("\n - Gerardo Diego \n\n");
     system("pause");
     system("cls");
 }
