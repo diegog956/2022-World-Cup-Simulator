@@ -54,4 +54,4 @@ Disclaimer: This project has been created with a spanish interface.
 
 🇪🇸 Para ver el algoritmo de probabilidades utilizado haz click [aquí](assets/algorithm_explanation.pdf)
 
-🇺🇸 In order to see the algorithm explanation click [here](assets/algorithm_explanation.pdf)
+🇺🇸 In order to see the algorithm explanation click [here](assets/algorithm_explanation.pdf) (spanish-only)
