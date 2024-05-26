@@ -1,5 +1,5 @@
-# 🗺️ 2022 World Cup Simulator
-# Simulador de Mundial Qatar 2022 🗺️
+# 🇪🇸 Simulador de Copa Mundial de Fútbol 2022 🗺️ 
+# 🇺🇸 2022 Football World Cup Simulator 🗺️
 
 🇪🇸 Bienvenido al simulador del mundial de Qatar 2022.
 Este repositorio creado como proyecto para la universidad simula los resultados de los partidos de la copa del mundo.
