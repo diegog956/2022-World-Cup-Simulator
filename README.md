@@ -15,7 +15,7 @@ Disclaimer: This project has been created with a spanish interface.
 
 ## Technologies Used 📋
 
-◾ Lenguage: C
+◾ Language: C
 
 ◾ IDE: Codeblocks
 
